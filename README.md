@@ -11,7 +11,7 @@
 ###  [Design and Comparative Validation of CRISPR gRNAs for HPV-16 E6](https://github.com/AbhishiktaPradhan-code/Design-and-Comparative-Validation-of-CRISPR-gRNAs-for-HPV-16-E6)
 A complete in silico design and validation of guide RNAs (gRNAs) targeting the HPV-16 E6 oncogene using CRISPR-Cas12a diagnostics. This project incorporates BLAST validation, strain comparison, mutation screening, and RNA secondary structure analysis to ensure clinical reliability.
 
-###  [ClinVar-Based Variant Impact Study](https://github.com/AbhishiktaPradhan-code/Clinvar-based-variant-impact-study/tree/main)
+###  [ClinVar-Based Variant Impact Study](https://github.com/AbhishiktaPradhan-code/Clinvar-based-variant-impact-study)
 This project simulates a diagnostic gene panel by analyzing variants from BRCA1, CFTR, and GJB2. Using ClinVar, dbSNP, and tools like SIFT, PolyPhen-2, MutationTaster, and CADD, it evaluates variant pathogenicity and compares predictions with clinical annotations to explore real-world variant interpretation workflows..
 
 ###  [DEG Analysis of Pre-Diagnostic Breast Tissue](https://github.com/AbhishiktaPradhan-code/DEG_Analysis_of-Pre-Diagnostic_Breast_Tissue)
