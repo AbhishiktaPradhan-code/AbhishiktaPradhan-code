@@ -21,7 +21,7 @@ This project aims to identify early transcriptional changes in histologically no
 
 ##  Learning Repository
 
-###  [Bioinformatics Learning Journal](https://github.com/AbhishiktaPradhan-code/bioinformatics-learning)
+###  [Bioinformatics-toolkit](https://github.com/AbhishiktaPradhan-code/bioinformatics-toolkit)
 Documenting progress in:
 - Learning **Python** and **R** for bioinformatics
 - Solving curated **Rosalind problems** 
